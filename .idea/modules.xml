@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidLoginAndRegistration.iml" filepath="$PROJECT_DIR$/AndroidLoginAndRegistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidLoginAndRegistration-app.iml" filepath="$PROJECT_DIR$/app/AndroidLoginAndRegistration-app.iml" group="AndroidLoginAndRegistration/app" />
+      <module fileurl="file://$PROJECT_DIR$/GitHub-AndroidLoginAndRegistration.iml" filepath="$PROJECT_DIR$/GitHub-AndroidLoginAndRegistration.iml" group="AndroidLoginAndRegistration" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
